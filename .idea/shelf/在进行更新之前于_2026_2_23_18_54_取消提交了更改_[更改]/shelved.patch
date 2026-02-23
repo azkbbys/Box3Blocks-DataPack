@@ -1,0 +1,82 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"196dcffd-0f23-47ff-b3a3-a42caa4edc93\" name=\"更改\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/grass.json\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"3A3vQE166flj51bpDkOszZWt7xM\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/ken/IdeaProjects/Box3Blocks-DataPack\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\n      <changelist id=\"196dcffd-0f23-47ff-b3a3-a42caa4edc93\" name=\"更改\" comment=\"\" />\n      <created>1771834050175</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1771834050175</updated>\n      <workItem from=\"1771834051750\" duration=\"6000\" />\n    </task>\n    <servers />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ae448d10be4fb0d0adc17e95e2742fc00f0a3fc6)
++++ b/.idea/workspace.xml	(date 1771841612426)
+@@ -4,8 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="">
+-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/grass.json" beforeDir="false" />
++    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="feature: adding loot tables for all blocks, exactly the same as &quot;grass.json&quot;">
++      <change afterPath="$PROJECT_DIR$/box3formula/data/box3/recipe/A.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -15,6 +16,18 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "QZL-efz"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/QZL-efz/Box3Blocks-DataPack.git",
++    "accountId": "30468b81-4e15-40de-ab55-349579177bbe"
++  }
++}]]></component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 4
+ }</component>
+@@ -55,6 +68,20 @@
+       <updated>1771834050175</updated>
+       <workItem from="1771834051750" duration="6000" />
+     </task>
++    <task id="LOCAL-00001" summary="feature: adding loot tables for all blocks, exactly the same as &quot;grass.json&quot;">
++      <option name="closed" value="true" />
++      <created>1771838289399</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1771838289399</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Merge pull request #7 from box3lab/dev&#10;&#10;chore(workflow): 更新GitHub Actions上传工件动作到v4版本" />
++    <MESSAGE value="feature: adding loot tables for all blocks, exactly the same as &quot;grass.json&quot;" />
++    <option name="LAST_COMMIT_MESSAGE" value="feature: adding loot tables for all blocks, exactly the same as &quot;grass.json&quot;" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: box3formula/data/box3/recipe/A.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/box3formula/data/box3/recipe/A.json b/box3formula/data/box3/recipe/A.json
+new file mode 100644
+--- /dev/null	(date 1771842283022)
++++ b/box3formula/data/box3/recipe/A.json	(date 1771842283022)
+@@ -0,0 +1,8 @@
++{
++  "type": "minecraft:stonecutting",
++  "ingredient": "minecraft:chiseled_stone_bricks",
++  "result": {
++    "id": "box3:A",
++    "count": 4
++  }
++}
+\ No newline at end of file
