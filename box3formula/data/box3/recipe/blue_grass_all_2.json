@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        "B#B",
+        " B "
+    ],
+    "key": {
+        "#": "box3:grass",
+        "B": "minecraft:blue_dye"
+    },
+    "result": {
+        "id": "box3:blue_grass_all",
+        "count": 1
+    },
+    "group": "grass"
+}
