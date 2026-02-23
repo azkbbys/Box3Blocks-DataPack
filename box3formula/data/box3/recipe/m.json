@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["#B ", "   ", "   "], "key": {"#": "box3:one", "B": "box3:three"}, "result": {"id": "box3:m", "count": 2}, "group": "box3:字母"}
