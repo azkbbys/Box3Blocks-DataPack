@@ -2,6 +2,10 @@
 
 本数据包用于在 MC 神岛世界中统一管理方块相关的**合成配方**与**破坏掉落的战利品**。
 
+需要适配的模组版本：V1.4.0+
+
+神岛模组安装：[curseforge](https://www.curseforge.com/minecraft/mc-mods/box3-blocks)，[modrinth](https://modrinth.com/mod/box3-blocks)
+
 ## 数据包简介
 
 - 使用 `block-id.json` 维护神岛方块 ID（带命名空间，如 `box3:grass`）。
@@ -12,7 +16,7 @@
 
 ```
 box3project/
-├── block-id.json                    # 方块 ID 与方块名映射
+├── block-id.json                    # 方块 ID 大全
 ├── box3formula/
 │   └── data/
 │       └── box3/
