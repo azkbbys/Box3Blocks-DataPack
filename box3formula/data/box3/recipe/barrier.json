@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-      "# #",
-      " G ",
-      "# #"
+      "#G#",
+      "GGG",
+      "#G#"
   ],
   "key": {
       "#": "minecraft:green_dye",
