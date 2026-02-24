@@ -4,34 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="feature: 为数字、字母、符号、弹跳垫、两种蜂巢添加配方">
+    <list default="true" id="196dcffd-0f23-47ff-b3a3-a42caa4edc93" name="更改" comment="feature: 移除了字母的切石机配方">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/A.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/B.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/C.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/D.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/E.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/F.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/G.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/H.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/I.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/J.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/K.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/L.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/M.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/N.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/O.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/P.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/Q.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/R.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/S.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/T.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/U.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/V.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/W.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/X.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/Y.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/recipe/Z.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/A.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/A.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/B.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/B.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/C.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/C.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/D.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/D.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/E.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/E.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/F.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/F.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/G.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/G.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/H.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/H.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/I.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/I.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/J.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/J.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/K.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/K.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/L.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/L.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/M.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/M.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/N.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/N.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/O.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/O.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/P.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/P.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/Q.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/Q.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/R.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/R.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/S.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/S.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/T.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/T.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/U.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/U.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/V.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/V.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/W.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/W.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/X.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/X.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/Y.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/Y.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/Z.json" beforeDir="false" afterPath="$PROJECT_DIR$/box3formula/data/box3/loot_table/blocks/Z.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,13 +117,33 @@
       <option name="project" value="LOCAL" />
       <updated>1771846151517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feature: 移除了字母的切石机配方">
+      <option name="closed" value="true" />
+      <created>1771847534097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771847534097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge pull request #7 from box3lab/dev&#10;&#10;chore(workflow): 更新GitHub Actions上传工件动作到v4版本" />
     <MESSAGE value="feature: adding loot tables for all blocks, exactly the same as &quot;grass.json&quot;" />
     <MESSAGE value="feature: 为数字、字母、符号、弹跳垫、两种蜂巢添加配方" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: 为数字、字母、符号、弹跳垫、两种蜂巢添加配方" />
+    <MESSAGE value="feature: 移除了字母的切石机配方" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: 移除了字母的切石机配方" />
   </component>
 </project>
