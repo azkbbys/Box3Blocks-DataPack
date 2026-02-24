@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "#G#",
+      "GGG",
+      "#G#"
+  ],
+  "key": {
+      "#": "minecraft:green_dye",
+      "G": "minecraft:glass"
+  },
+  "result": {
+      "id": "box3:barrier",
+      "count": 5
+  }
+}

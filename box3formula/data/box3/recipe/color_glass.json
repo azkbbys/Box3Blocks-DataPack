@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green_dye",
+      "minecraft:blue_dye",
+      "minecraft:red_dye"
+  ],
+  "result": {
+      "id": "box3:color_glass",
+      "count": 6
+  }
+}

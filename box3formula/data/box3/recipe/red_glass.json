@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "###",
+      "#B#",
+      "###"
+  ],
+  "key": {
+      "#": "box3:glass",
+      "B": "minecraft:red_dye"
+  },
+  "result": {
+      "id": "box3:red_glass",
+      "count": 8
+  }
+}
